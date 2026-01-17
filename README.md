@@ -3,6 +3,14 @@
 Follow-Up Desk is a simple React application for tracking job application follow-ups.
 It allows users to add notes about companies, roles, and next steps, with data persisted in localStorage.
 
+## Live Demo
+
+https://spiffy-kheer-178783.netlify.app
+
+## Screenshot
+
+![Follow-Up Desk screenshot](./screenshots/app.png)
+
 ## Features
 
 - Add new application follow-up notes
